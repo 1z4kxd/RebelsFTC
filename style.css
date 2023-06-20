@@ -237,3 +237,6 @@ section span{
   .insta:hover{
     transform: translateY(-5px);
   }
+header img:hover{
+    transform: scale(1.1);
+}
